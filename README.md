@@ -1,3 +1,3 @@
 # yigitbun.github.io
 
-deneme
+yigitbun.github.io
