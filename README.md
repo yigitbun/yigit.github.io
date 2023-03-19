@@ -1,4 +1,4 @@
-# yigitbun.github.io
+# yigit.github.io
 
 Link to Website
-[Bünyamin Yigit Portfolio](https://yigitbun.github.io)
+[Bünyamin Yigit Portfolio](https://yigit.github.io)
